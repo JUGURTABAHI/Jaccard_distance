@@ -1,0 +1,8 @@
+*.o
+jdis
+jdis_test/jdis
+.#*
+*~
+*.pdf
+*.odt
+
